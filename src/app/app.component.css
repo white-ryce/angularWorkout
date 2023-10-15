@@ -1,0 +1,22 @@
+.mainContianer
+{
+    width: 100%;
+}
+
+.topRow
+{  
+    display: flex;
+    justify-content: center;
+}
+
+.secondRow
+{
+    display: flex;
+    justify-content: center;
+}
+
+.componentStyle
+{
+    margin-bottom: 100px;
+    margin-right: 100px;
+}
